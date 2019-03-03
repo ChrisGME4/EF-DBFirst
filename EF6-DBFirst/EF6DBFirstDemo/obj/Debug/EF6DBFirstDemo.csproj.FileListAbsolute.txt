@@ -1,0 +1,14 @@
+C:\Users\User\Documents\EF6-DBFirst-Demo-master - Copy\EF6-DBFirst-Demo-master\EF6DBFirstDemo\bin\Debug\SchoolDB.mdf
+C:\Users\User\Documents\EF6-DBFirst-Demo-master - Copy\EF6-DBFirst-Demo-master\EF6DBFirstDemo\bin\Debug\SchoolDB_log.ldf
+C:\Users\User\Documents\EF6-DBFirst-Demo-master - Copy\EF6-DBFirst-Demo-master\EF6DBFirstDemo\bin\Debug\EF6DBFirstDemo.exe.config
+C:\Users\User\Documents\EF6-DBFirst-Demo-master - Copy\EF6-DBFirst-Demo-master\EF6DBFirstDemo\bin\Debug\EF6DBFirstDemo.exe
+C:\Users\User\Documents\EF6-DBFirst-Demo-master - Copy\EF6-DBFirst-Demo-master\EF6DBFirstDemo\bin\Debug\EF6DBFirstDemo.pdb
+C:\Users\User\Documents\EF6-DBFirst-Demo-master - Copy\EF6-DBFirst-Demo-master\EF6DBFirstDemo\bin\Debug\EntityFramework.dll
+C:\Users\User\Documents\EF6-DBFirst-Demo-master - Copy\EF6-DBFirst-Demo-master\EF6DBFirstDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\EF6-DBFirst-Demo-master - Copy\EF6-DBFirst-Demo-master\EF6DBFirstDemo\bin\Debug\EntityFramework.xml
+C:\Users\User\Documents\EF6-DBFirst-Demo-master - Copy\EF6-DBFirst-Demo-master\EF6DBFirstDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\EF6-DBFirst-Demo-master - Copy\EF6-DBFirst-Demo-master\EF6DBFirstDemo\obj\Debug\EF6DBFirstDemo.csprojAssemblyReference.cache
+C:\Users\User\Documents\EF6-DBFirst-Demo-master - Copy\EF6-DBFirst-Demo-master\EF6DBFirstDemo\obj\Debug\EF6DBFirstDemo.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\EF6-DBFirst-Demo-master - Copy\EF6-DBFirst-Demo-master\EF6DBFirstDemo\obj\Debug\EF6DBFirstDemo.csproj.CopyComplete
+C:\Users\User\Documents\EF6-DBFirst-Demo-master - Copy\EF6-DBFirst-Demo-master\EF6DBFirstDemo\obj\Debug\EF6DBFirstDemo.exe
+C:\Users\User\Documents\EF6-DBFirst-Demo-master - Copy\EF6-DBFirst-Demo-master\EF6DBFirstDemo\obj\Debug\EF6DBFirstDemo.pdb
